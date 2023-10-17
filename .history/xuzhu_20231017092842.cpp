@@ -2,7 +2,7 @@
 
 int main(){
     printf("Hello Tangxitao!\n");
-    printf("è§è¿œå±±\n");
+    printf("åĞÒ£×ÓÀîÇïË®¶¡´ºÇï\n");
     return 0;
 }
 
